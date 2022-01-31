@@ -1,2 +1,1 @@
-### Hi there 👋
-## A C++ enjoyer.
+### Hi there �
