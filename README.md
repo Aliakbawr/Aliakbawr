@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Akbar Ahrari</h1>
-<h3 align="center">A third-year student and a Backend developer from Iran</h3>
+<h3 align="center">A third-year university student and a Backend developer from Iran</h3>
 
 - 🌱 I’m currently learning **DJango**
 
