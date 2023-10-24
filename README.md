@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ali Akbar Ahrari</h1>
-<h3 align="center">A third-year university student and a Backend developer from Iran</h3>
+<h3 align="center">A third-year student and a Backend developer from Iran</h3>
 
 - 🌱 I’m currently learning **DJango**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Aliakbawr](https://github.com/Aliakbawr)
 
 - 📫 How to reach me **realaliakbawr@gmail.com**
 
