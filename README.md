@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="center">Hi there! I'm Ali Akbar👋! , a passionate student of Computer Engineering at the University of Isfahan with a keen interest in Artificial Intelligence and web development. Over the past three years, I’ve honed my skills in Python, AI, and Machine learning, fueled by a curiosity for solving complex problems.</h2>
+<h2 align="center">Hi there! I'm Ali Akbar👋! , a passionate student of Computer Engineering at the University of Isfahan with a keen interest in Artificial Intelligence. Over the past four years, I’ve honed my skills in AI, and Machine learning and Deep Learning fueled by a curiosity for solving complex problems.</h2>
 
 ###
 
